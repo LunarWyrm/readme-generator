@@ -1,8 +1,8 @@
-# Apples
+# readme-generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a description of Apples
+This app generates a README.
 
 ## Table of Contents (Optional)
 
@@ -16,25 +16,26 @@ This is a description of Apples
 - [Questions](#questions)
 
 ## Installation
-just do it
+Just do it
 
 ## Usage
-shi la beef
+Use node index.js to run the app.
 
 ## Credits
-google
+My tutor helped me with the javascript and thinking of the right questions to ask.
+Chat GPT taught me to use switch and case instead of if statements when trying to return the badges since I was overwriting them.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How To Contribute
-can't
+N/A
 
 ## Tests
-none
+N/A
 
 ## Error Reporting
-dont
+N/A
 
 ## Questions
 apples2
